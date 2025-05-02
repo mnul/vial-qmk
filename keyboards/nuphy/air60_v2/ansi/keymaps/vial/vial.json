@@ -123,32 +123,8 @@
 		"title": "Link BLE_3"
 	},
 	{
-		"name": "Mac\nTask",
-		"title": "Mac Task"
-	},
-	{
-		"name": "Mac\nSearch",
-		"title": "Mac Search"
-	},
-	{
-		"name": "Mac\nVoice",
-		"title": "Mac Siri Voice"
-	},
-    {
-		"name": "Mac\nConsole",
-		"title": "Mac Console"
-	},
-	{
-		"name": "Mac\nDnd",
-		"title": "Mac Dnd"
-	},
-	{
 		"name": "Print\n Whole",
 		"title": "Print Whole"
-	},
-	{
-		"name": "Print\n Area",
-		"title": "Print Area"
 	},
 	{
 		"name": "Side\nLight+",
@@ -161,18 +137,6 @@
 	{
 		"name": "Side\nMode",
 		"title": "Side Next Mode"
-	},
-	{
-		"name": "Side\nColor",
-		"title": "Side Next Color"
-	},
-	{
-		"name": "Side\nFast",
-		"title": "Side Speed +"
-	},
-	{
-		"name": "Side\nSlow",
-		"title": "Side Speed -"
 	},
 	{
 		"name": "Dev\nReset",
