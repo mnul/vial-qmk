@@ -77,7 +77,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 	_______,	_______,	_______,										_______, 							_______,	_______,   	SIDE_MOD,	SIDE_VAD,    SIDE_HUI)
 };
 
-
+/*
 const is31_led PROGMEM g_is31_leds[RGB_MATRIX_LED_COUNT] = {
     {0, A_16,   B_16,   C_16},      // "Esc"
     {0, A_2,    B_2,    C_2},       // "!1"
@@ -156,3 +156,4 @@ const is31_led PROGMEM g_is31_leds[RGB_MATRIX_LED_COUNT] = {
     {1, A_9,    B_9,    C_9},       //
     {1, A_10,   B_10,   C_10}       //
 };
+*/

@@ -1,2 +1,5 @@
 VIA_ENABLE = yes
 VIAL_ENABLE = yes
+
+BOOTLOADER = stm32-dfu
+RGB_MATRIX_ENABLE = no
