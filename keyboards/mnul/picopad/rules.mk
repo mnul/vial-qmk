@@ -10,7 +10,7 @@ BACKLIGHT_ENABLE = no
 RGBLIGHT_ENABLE = no
 AUDIO_ENABLE = no
 
-VIAL_ENABLE = yes
+# VIAL_ENABLE = yes
 VIAL_INSECURE = yes
 
 # Do NOT include "SRC += matrix.c" for direct pin configurations.
