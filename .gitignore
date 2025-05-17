@@ -77,6 +77,8 @@ CMakeLists.txt
 .vscode/tasks.json
 .vscode/temp.sql
 tags
+.vscode/
+
 
 # Ignore image/font files
 *.bmp
