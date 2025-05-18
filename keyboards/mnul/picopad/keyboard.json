@@ -1,0 +1,38 @@
+{
+    "manufacturer": "mnul",
+    "keyboard_name": "PicoPad",
+    "maintainer": "mnul",
+    "bootloader": "rp2040",
+    "features": {
+        "bootmagic": true,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true
+    },
+    "matrix_pins": {
+        "direct": [
+            ["GP16", "GP17"],
+            ["GP18", "GP19"],
+            ["GP20", "GP21"],
+            ["GP22", "GP26"],
+            ["GP27", "GP28"]
+        ]
+    },
+    "processor": "RP2040",
+    "usb": {
+        "device_version": "0.0.1",
+        "pid": "0x6D01",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label": "K00", "matrix": [0, 0], "x": 0, "y": 0}, {"label": "K01", "matrix": [0, 1], "x": 1, "y": 0},
+                {"label": "K10", "matrix": [1, 0], "x": 0, "y": 1}, {"label": "K11", "matrix": [1, 1], "x": 1, "y": 1},
+                {"label": "K20", "matrix": [2, 0], "x": 0, "y": 2}, {"label": "K21", "matrix": [2, 1], "x": 1, "y": 2},
+                {"label": "K30", "matrix": [3, 0], "x": 0, "y": 3}, {"label": "K31", "matrix": [3, 1], "x": 1, "y": 3},
+                {"label": "K40", "matrix": [4, 0], "x": 0, "y": 4}, {"label": "K41", "matrix": [4, 1], "x": 1, "y": 4}
+            ]
+        }
+    }
+}
