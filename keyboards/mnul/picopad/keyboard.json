@@ -11,11 +11,11 @@
     },
     "matrix_pins": {
         "direct": [
-            ["GP28", "GP19"], // Physical K00, K01
-            ["GP27", "GP20"], // Physical K10, K11
-            ["GP26", "GP18"], // Physical K20, K21
-            ["GP22", "GP17"], // Physical K30, K31
-            ["GP21", "GP16"]  // Physical K40, K41
+            ["GP28", "GP19"],
+            ["GP27", "GP20"],
+            ["GP26", "GP18"],
+            ["GP22", "GP17"],
+            ["GP21", "GP16"]
         ]
     },
     "processor": "RP2040",
